@@ -45,6 +45,7 @@ body {
 
 #link-blank {
     text-decoration: none;
+    color: aliceblue;
 }
 
 .nd-buttom {
@@ -55,7 +56,7 @@ body {
 }
 
 .Dontate-contenier {
-    margin-top: 8%;
+    margin-top: 40px;
     text-align: center;
     font-family: 'Oxygen', sans-serif;
 
@@ -63,7 +64,8 @@ body {
 
 #title-second {
     font-family: 'Oxygen', sans-serif;
-    font-weight: 700px;
+    font-weight: bolder;
+
 }
 
 .descirption-second {
