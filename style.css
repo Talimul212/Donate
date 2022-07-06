@@ -54,6 +54,7 @@ body {
 }
 
 .nd-buttom {
+    margin-top: 2%;
     border: 0;
     padding: 20px;
     background: rgb(190, 241, 50);
@@ -127,8 +128,8 @@ body {
 }
 
 hr {
-    margin-left: 19%;
-    margin-right: 20%;
+    margin-left: 25%;
+    margin-right: 26%;
     position: relative;
     border: none;
     height: 1px;
@@ -201,8 +202,57 @@ hr {
     ;
 }
 
+.section-fourth {
+    font-family: 'Oxygen', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.section-p {
+    margin-top: -1%;
+    padding-left: 100px;
+    padding-right: 100px;
+    color: rgb(146, 146, 143);
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 10px;
+
+}
+
+.input-email {
+    margin-top: 40px;
+    margin-left: 290px;
+    margin-right: 290px;
+    text-align: center;
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: rgb(248, 248, 197);
+}
+
+#email {
+    background-color: rgb(209, 223, 223);
+    border: none;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+#button {
+    border: none;
+    margin-left: -4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(250, 127, 82);
+}
+
+.link-button {
+    color: aliceblue;
+    text-decoration: none;
+}
+
 .end-part {
-    margin-top: 30px;
+    margin-top: 80px;
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
@@ -213,7 +263,7 @@ hr {
 #footer-header {
     font-size: 35px;
     font-weight: bold;
-    color: rgb(255, 95, 37);
+    color: rgb(235, 86, 32);
     font-family: 'Lobster', cursive;
     font-weight: lighter
 }
